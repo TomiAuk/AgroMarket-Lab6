@@ -1,0 +1,2 @@
+Лабораторная работа № 6 — PostgreSQL CRUD.
+Внутри находятся SQL-схема, инициализация/загрузка данных, Express-маршруты CRUD и коллекция Postman. Запуск: установите PostgreSQL и Node.js 18+, создайте БД agromarket, настройте .env по .env.example, затем npm install, npm run db:init и npm run dev. Подробнее — README.md.

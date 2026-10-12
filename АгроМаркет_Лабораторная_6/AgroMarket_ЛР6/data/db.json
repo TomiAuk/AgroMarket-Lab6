@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Картофель, 1 кг",
+      "category": "Овощи",
+      "price": 350,
+      "unit": "кг",
+      "image": "https://placehold.co/600x400/e8f1e5/315b32?text=Картофель"
+    },
+    {
+      "id": 2,
+      "name": "Мёд натуральный, 1 кг",
+      "category": "Мёд",
+      "price": 4500,
+      "unit": "кг",
+      "image": "https://placehold.co/600x400/f8edcf/765a16?text=Мёд"
+    },
+    {
+      "id": 3,
+      "name": "Молоко фермерское, 1 л",
+      "category": "Молочные продукты",
+      "price": 600,
+      "unit": "л",
+      "image": "https://placehold.co/600x400/f3f4ef/315b32?text=Молоко"
+    },
+    {
+      "id": 4,
+      "name": "Яйца домашние, 10 шт.",
+      "category": "Яйца",
+      "price": 1200,
+      "unit": "упаковка",
+      "image": "https://placehold.co/600x400/f5eadb/765a16?text=Яйца"
+    },
+    {
+      "id": 5,
+      "name": "Яблоки сезонные, 1 кг",
+      "category": "Фрукты",
+      "price": 800,
+      "unit": "кг",
+      "image": "https://placehold.co/600x400/e8f1e5/315b32?text=Яблоки"
+    },
+    {
+      "id": 6,
+      "name": "Творог домашний, 500 г",
+      "category": "Молочные продукты",
+      "price": 950,
+      "unit": "упаковка",
+      "image": "https://placehold.co/600x400/f3f4ef/315b32?text=Творог"
+    }
+  ]
+}
